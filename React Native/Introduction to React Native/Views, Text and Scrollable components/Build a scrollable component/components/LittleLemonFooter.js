@@ -16,7 +16,7 @@ export default function LittleLemonFooter() {
           textAlign: "center",
         }}
       >
-        All rights reserved by Little Lemon, 2022
+        All rights reserved by Little Lemon, 2023
       </Text>
     </View>
   );
